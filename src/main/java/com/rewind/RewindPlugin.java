@@ -276,6 +276,9 @@ public class RewindPlugin extends Plugin {
         EntityDefinition.itemDefinitions = loadDefinitionResource(defMapType, "items.json");
         Type overrideMapType = new TypeToken<Map<Integer, String>>() {}.getType();
         EntityDefinition.itemReleaseOverrides = loadDefinitionResource(overrideMapType, "item-release-overrides.json");
+        Type namedOverrideMapType = new TypeToken<Map<String, String>>() {}.getType();
+        Map<String, String> questItemOverrides = loadDefinitionResource(namedOverrideMapType, "quest-item-release-overrides.json");
+        EntityDefinition.applyNamedItemReleaseOverrides(questItemOverrides);
         EntityDefinition.monsterDefinition = loadDefinitionResource(defMapType, "monsters.json");
         EntityDefinition.indexMonsterDefinitions();
         Release[] base = loadDefinitionResource(Release[].class, "releases.json");
