@@ -1,0 +1,1610 @@
+[
+  {
+    "date": "2001-01-04",
+    "dateKey": "_04_JANUARY_2001",
+    "region": 12437,
+    "quests": [
+      "SHIELD_OF_ARRAV",
+      "SHEEP_SHEARER",
+      "ROMEO__JULIET",
+      "THE_RESTLESS_GHOST",
+      "DEMON_SLAYER",
+      "COOKS_ASSISTANT"
+    ]
+  },
+  {
+    "date": "2001-01-04",
+    "dateKey": "_04_JANUARY_2001",
+    "region": 12697,
+    "quests": [
+      "SHIELD_OF_ARRAV",
+      "SHEEP_SHEARER",
+      "ROMEO__JULIET",
+      "THE_RESTLESS_GHOST",
+      "DEMON_SLAYER",
+      "COOKS_ASSISTANT"
+    ]
+  },
+  {
+    "date": "2001-01-04",
+    "dateKey": "_04_JANUARY_2001",
+    "region": 12952,
+    "quests": [
+      "SHIELD_OF_ARRAV",
+      "SHEEP_SHEARER",
+      "ROMEO__JULIET",
+      "THE_RESTLESS_GHOST",
+      "DEMON_SLAYER",
+      "COOKS_ASSISTANT"
+    ]
+  },
+  {
+    "date": "2001-04-06",
+    "dateKey": "_06_APRIL_2001",
+    "region": 7490,
+    "quests": [
+      "THE_KNIGHTS_SWORD",
+      "WITCHS_POTION",
+      "BLACK_KNIGHTS_FORTRESS",
+      "DORICS_QUEST"
+    ]
+  },
+  {
+    "date": "2001-04-06",
+    "dateKey": "_06_APRIL_2001",
+    "region": 12182,
+    "quests": [
+      "THE_KNIGHTS_SWORD",
+      "WITCHS_POTION",
+      "BLACK_KNIGHTS_FORTRESS",
+      "DORICS_QUEST"
+    ]
+  },
+  {
+    "date": "2001-09-23",
+    "dateKey": "_23_SEPTEMBER_2001",
+    "region": 11670,
+    "quests": [
+      "DRAGON_SLAYER_I"
+    ]
+  },
+  {
+    "date": "2001-09-23",
+    "dateKey": "_23_SEPTEMBER_2001",
+    "region": 11927,
+    "quests": [
+      "DRAGON_SLAYER_I"
+    ]
+  },
+  {
+    "date": "2002-02-27",
+    "dateKey": "_27_FEBRUARY_2002",
+    "region": 11162,
+    "quests": [
+      "HEROES_QUEST",
+      "MERLINS_CRYSTAL",
+      "WITCHS_HOUSE",
+      "LOST_CITY",
+      "DRUIDIC_RITUAL"
+    ]
+  },
+  {
+    "date": "2002-02-27",
+    "dateKey": "_27_FEBRUARY_2002",
+    "region": 11415,
+    "quests": [
+      "HEROES_QUEST",
+      "MERLINS_CRYSTAL",
+      "WITCHS_HOUSE",
+      "LOST_CITY",
+      "DRUIDIC_RITUAL"
+    ]
+  },
+  {
+    "date": "2002-04-09",
+    "dateKey": "_09_APRIL_2002",
+    "region": 10903,
+    "quests": [
+      "FAMILY_CREST"
+    ]
+  },
+  {
+    "date": "2002-04-09",
+    "dateKey": "_09_APRIL_2002",
+    "region": 13212,
+    "quests": [
+      "FAMILY_CREST"
+    ]
+  },
+  {
+    "date": "2002-05-28",
+    "dateKey": "_28_MAY_2002",
+    "region": 10133,
+    "quests": [
+      "MONKS_FRIEND",
+      "FISHING_CONTEST"
+    ]
+  },
+  {
+    "date": "2002-06-17",
+    "dateKey": "_17_JUNE_2002",
+    "region": 8085,
+    "quests": [
+      "CLOCK_TOWER",
+      "TEMPLE_OF_IKOV"
+    ]
+  },
+  {
+    "date": "2002-06-17",
+    "dateKey": "_17_JUNE_2002",
+    "region": 10648,
+    "quests": [
+      "CLOCK_TOWER",
+      "TEMPLE_OF_IKOV"
+    ]
+  },
+  {
+    "date": "2002-06-17",
+    "dateKey": "_17_JUNE_2002",
+    "region": 10649,
+    "quests": [
+      "CLOCK_TOWER",
+      "TEMPLE_OF_IKOV"
+    ]
+  },
+  {
+    "date": "2002-06-17",
+    "dateKey": "_17_JUNE_2002",
+    "region": 10650,
+    "quests": [
+      "CLOCK_TOWER",
+      "TEMPLE_OF_IKOV"
+    ]
+  },
+  {
+    "date": "2002-06-17",
+    "dateKey": "_17_JUNE_2002",
+    "region": 10905,
+    "quests": [
+      "CLOCK_TOWER",
+      "TEMPLE_OF_IKOV"
+    ]
+  },
+  {
+    "date": "2002-07-23",
+    "dateKey": "_23_JULY_2002",
+    "region": 11080,
+    "quests": [
+      "FIGHT_ARENA",
+      "TREE_GNOME_VILLAGE",
+      "HOLY_GRAIL"
+    ]
+  },
+  {
+    "date": "2002-07-23",
+    "dateKey": "_23_JULY_2002",
+    "region": 11081,
+    "quests": [
+      "FIGHT_ARENA",
+      "TREE_GNOME_VILLAGE",
+      "HOLY_GRAIL"
+    ]
+  },
+  {
+    "date": "2002-08-15",
+    "dateKey": "_15_AUGUST_2002",
+    "region": 10135,
+    "quests": [
+      "SHEEP_HERDER",
+      "HAZEEL_CULT"
+    ]
+  },
+  {
+    "date": "2002-09-24",
+    "dateKey": "_24_SEPTEMBER_2002",
+    "region": 10138,
+    "quests": [
+      "WATERFALL_QUEST"
+    ]
+  },
+  {
+    "date": "2002-09-24",
+    "dateKey": "_24_SEPTEMBER_2002",
+    "region": 10395,
+    "quests": [
+      "WATERFALL_QUEST"
+    ]
+  },
+  {
+    "date": "2002-10-23",
+    "dateKey": "_23_OCTOBER_2002",
+    "region": 11411,
+    "quests": [
+      "JUNGLE_POTION",
+      "BIOHAZARD"
+    ]
+  },
+  {
+    "date": "2002-10-23",
+    "dateKey": "_23_OCTOBER_2002",
+    "region": 11668,
+    "quests": [
+      "JUNGLE_POTION",
+      "BIOHAZARD"
+    ]
+  },
+  {
+    "date": "2002-12-12",
+    "dateKey": "_12_DECEMBER_2002",
+    "region": 9627,
+    "quests": [
+      "THE_GRAND_TREE"
+    ]
+  },
+  {
+    "date": "2003-01-27",
+    "dateKey": "_27_JANUARY_2003",
+    "region": 10898,
+    "quests": [
+      "SHILO_VILLAGE"
+    ]
+  },
+  {
+    "date": "2003-01-27",
+    "dateKey": "_27_JANUARY_2003",
+    "region": 11409,
+    "quests": [
+      "SHILO_VILLAGE"
+    ]
+  },
+  {
+    "date": "2003-01-27",
+    "dateKey": "_27_JANUARY_2003",
+    "region": 11665,
+    "quests": [
+      "SHILO_VILLAGE"
+    ]
+  },
+  {
+    "date": "2003-01-27",
+    "dateKey": "_27_JANUARY_2003",
+    "region": 11922,
+    "quests": [
+      "SHILO_VILLAGE"
+    ]
+  },
+  {
+    "date": "2003-03-03",
+    "dateKey": "_03_MARCH_2003",
+    "region": 8263,
+    "quests": [
+      "UNDERGROUND_PASS"
+    ]
+  },
+  {
+    "date": "2003-03-03",
+    "dateKey": "_03_MARCH_2003",
+    "region": 8519,
+    "quests": [
+      "UNDERGROUND_PASS"
+    ]
+  },
+  {
+    "date": "2003-03-03",
+    "dateKey": "_03_MARCH_2003",
+    "region": 8520,
+    "quests": [
+      "UNDERGROUND_PASS"
+    ]
+  },
+  {
+    "date": "2003-03-03",
+    "dateKey": "_03_MARCH_2003",
+    "region": 8521,
+    "quests": [
+      "UNDERGROUND_PASS"
+    ]
+  },
+  {
+    "date": "2003-03-03",
+    "dateKey": "_03_MARCH_2003",
+    "region": 8778,
+    "quests": [
+      "UNDERGROUND_PASS"
+    ]
+  },
+  {
+    "date": "2003-03-03",
+    "dateKey": "_03_MARCH_2003",
+    "region": 9365,
+    "quests": [
+      "UNDERGROUND_PASS"
+    ]
+  },
+  {
+    "date": "2003-03-03",
+    "dateKey": "_03_MARCH_2003",
+    "region": 9367,
+    "quests": [
+      "UNDERGROUND_PASS"
+    ]
+  },
+  {
+    "date": "2003-03-03",
+    "dateKey": "_03_MARCH_2003",
+    "region": 9368,
+    "quests": [
+      "UNDERGROUND_PASS"
+    ]
+  },
+  {
+    "date": "2003-03-03",
+    "dateKey": "_03_MARCH_2003",
+    "region": 9369,
+    "quests": [
+      "UNDERGROUND_PASS"
+    ]
+  },
+  {
+    "date": "2003-03-03",
+    "dateKey": "_03_MARCH_2003",
+    "region": 9370,
+    "quests": [
+      "UNDERGROUND_PASS"
+    ]
+  },
+  {
+    "date": "2003-03-03",
+    "dateKey": "_03_MARCH_2003",
+    "region": 9371,
+    "quests": [
+      "UNDERGROUND_PASS"
+    ]
+  },
+  {
+    "date": "2003-03-03",
+    "dateKey": "_03_MARCH_2003",
+    "region": 9621,
+    "quests": [
+      "UNDERGROUND_PASS"
+    ]
+  },
+  {
+    "date": "2003-03-03",
+    "dateKey": "_03_MARCH_2003",
+    "region": 9622,
+    "quests": [
+      "UNDERGROUND_PASS"
+    ]
+  },
+  {
+    "date": "2003-03-03",
+    "dateKey": "_03_MARCH_2003",
+    "region": 9623,
+    "quests": [
+      "UNDERGROUND_PASS"
+    ]
+  },
+  {
+    "date": "2003-03-03",
+    "dateKey": "_03_MARCH_2003",
+    "region": 9624,
+    "quests": [
+      "UNDERGROUND_PASS"
+    ]
+  },
+  {
+    "date": "2003-03-03",
+    "dateKey": "_03_MARCH_2003",
+    "region": 9878,
+    "quests": [
+      "UNDERGROUND_PASS"
+    ]
+  },
+  {
+    "date": "2003-03-03",
+    "dateKey": "_03_MARCH_2003",
+    "region": 9879,
+    "quests": [
+      "UNDERGROUND_PASS"
+    ]
+  },
+  {
+    "date": "2003-03-03",
+    "dateKey": "_03_MARCH_2003",
+    "region": 9880,
+    "quests": [
+      "UNDERGROUND_PASS"
+    ]
+  },
+  {
+    "date": "2003-03-17",
+    "dateKey": "_17_MARCH_2003",
+    "region": 9105,
+    "quests": [
+      "OBSERVATORY_QUEST"
+    ]
+  },
+  {
+    "date": "2003-03-17",
+    "dateKey": "_17_MARCH_2003",
+    "region": 9619,
+    "quests": [
+      "OBSERVATORY_QUEST"
+    ]
+  },
+  {
+    "date": "2003-04-14",
+    "dateKey": "_14_APRIL_2003",
+    "region": 13203,
+    "quests": [
+      "THE_TOURIST_TRAP"
+    ]
+  },
+  {
+    "date": "2003-05-07",
+    "dateKey": "_07_MAY_2003",
+    "region": 10131,
+    "quests": [
+      "WATCHTOWER"
+    ]
+  },
+  {
+    "date": "2003-07-09",
+    "dateKey": "_09_JULY_2003",
+    "region": 13720,
+    "quests": [
+      "THE_DIG_SITE"
+    ]
+  },
+  {
+    "date": "2003-08-20",
+    "dateKey": "_20_AUGUST_2003",
+    "region": 9546,
+    "quests": [
+      "LEGENDS_QUEST"
+    ]
+  },
+  {
+    "date": "2003-08-20",
+    "dateKey": "_20_AUGUST_2003",
+    "region": 10896,
+    "quests": [
+      "LEGENDS_QUEST"
+    ]
+  },
+  {
+    "date": "2003-08-20",
+    "dateKey": "_20_AUGUST_2003",
+    "region": 11152,
+    "quests": [
+      "LEGENDS_QUEST"
+    ]
+  },
+  {
+    "date": "2003-08-20",
+    "dateKey": "_20_AUGUST_2003",
+    "region": 11410,
+    "quests": [
+      "LEGENDS_QUEST"
+    ]
+  },
+  {
+    "date": "2003-09-22",
+    "dateKey": "_22_SEPTEMBER_2003",
+    "region": 9801,
+    "quests": [
+      "MAGE_ARENA_I"
+    ]
+  },
+  {
+    "date": "2003-09-22",
+    "dateKey": "_22_SEPTEMBER_2003",
+    "region": 10057,
+    "quests": [
+      "MAGE_ARENA_I"
+    ]
+  },
+  {
+    "date": "2004-05-18",
+    "dateKey": "_18_MAY_2004",
+    "region": 10642,
+    "quests": [
+      "BIG_CHOMPY_BIRD_HUNTING"
+    ]
+  },
+  {
+    "date": "2004-06-02",
+    "dateKey": "_02_JUNE_2004",
+    "region": 10906,
+    "quests": [
+      "ELEMENTAL_WORKSHOP_I"
+    ]
+  },
+  {
+    "date": "2004-06-29",
+    "dateKey": "_29_JUNE_2004",
+    "region": 13722,
+    "quests": [
+      "PRIEST_IN_PERIL"
+    ]
+  },
+  {
+    "date": "2004-08-09",
+    "dateKey": "_09_AUGUST_2004",
+    "region": 9034,
+    "quests": [
+      "DEATH_PLATEAU"
+    ]
+  },
+  {
+    "date": "2004-08-24",
+    "dateKey": "_24_AUGUST_2004",
+    "region": 11421,
+    "quests": [
+      "TROLL_STRONGHOLD"
+    ]
+  },
+  {
+    "date": "2004-08-24",
+    "dateKey": "_24_AUGUST_2004",
+    "region": 11578,
+    "quests": [
+      "TROLL_STRONGHOLD"
+    ]
+  },
+  {
+    "date": "2004-08-24",
+    "dateKey": "_24_AUGUST_2004",
+    "region": 11676,
+    "quests": [
+      "TROLL_STRONGHOLD"
+    ]
+  },
+  {
+    "date": "2004-09-20",
+    "dateKey": "_20_SEPTEMBER_2004",
+    "region": 8009,
+    "quests": [
+      "REGICIDE"
+    ]
+  },
+  {
+    "date": "2004-09-20",
+    "dateKey": "_20_SEPTEMBER_2004",
+    "region": 8495,
+    "quests": [
+      "REGICIDE"
+    ]
+  },
+  {
+    "date": "2004-09-20",
+    "dateKey": "_20_SEPTEMBER_2004",
+    "region": 9366,
+    "quests": [
+      "REGICIDE"
+    ]
+  },
+  {
+    "date": "2004-10-05",
+    "dateKey": "_05_OCTOBER_2004",
+    "region": 11677,
+    "quests": [
+      "EADGARS_RUSE"
+    ]
+  },
+  {
+    "date": "2004-11-02",
+    "dateKey": "_02_NOVEMBER_2004",
+    "region": 10652,
+    "quests": [
+      "THE_FREMENNIK_TRIALS"
+    ]
+  },
+  {
+    "date": "2004-11-02",
+    "dateKey": "_02_NOVEMBER_2004",
+    "region": 10653,
+    "quests": [
+      "THE_FREMENNIK_TRIALS"
+    ]
+  },
+  {
+    "date": "2004-11-17",
+    "dateKey": "_17_NOVEMBER_2004",
+    "region": 9799,
+    "quests": [
+      "HORROR_FROM_THE_DEEP"
+    ]
+  },
+  {
+    "date": "2004-11-17",
+    "dateKey": "_17_NOVEMBER_2004",
+    "region": 10056,
+    "quests": [
+      "HORROR_FROM_THE_DEEP"
+    ]
+  },
+  {
+    "date": "2004-12-06",
+    "dateKey": "_06_DECEMBER_2004",
+    "region": 9626,
+    "quests": [
+      "MONKEY_MADNESS_I"
+    ]
+  },
+  {
+    "date": "2004-12-06",
+    "dateKey": "_06_DECEMBER_2004",
+    "region": 10538,
+    "quests": [
+      "MONKEY_MADNESS_I"
+    ]
+  },
+  {
+    "date": "2004-12-06",
+    "dateKey": "_06_DECEMBER_2004",
+    "region": 10539,
+    "quests": [
+      "MONKEY_MADNESS_I"
+    ]
+  },
+  {
+    "date": "2004-12-06",
+    "dateKey": "_06_DECEMBER_2004",
+    "region": 10566,
+    "quests": [
+      "MONKEY_MADNESS_I"
+    ]
+  },
+  {
+    "date": "2004-12-06",
+    "dateKey": "_06_DECEMBER_2004",
+    "region": 10638,
+    "quests": [
+      "MONKEY_MADNESS_I"
+    ]
+  },
+  {
+    "date": "2004-12-06",
+    "dateKey": "_06_DECEMBER_2004",
+    "region": 10895,
+    "quests": [
+      "MONKEY_MADNESS_I"
+    ]
+  },
+  {
+    "date": "2004-12-06",
+    "dateKey": "_06_DECEMBER_2004",
+    "region": 11408,
+    "quests": [
+      "MONKEY_MADNESS_I"
+    ]
+  },
+  {
+    "date": "2004-12-21",
+    "dateKey": "_21_DECEMBER_2004",
+    "region": 10837,
+    "quests": [
+      "HAUNTED_MINE"
+    ]
+  },
+  {
+    "date": "2005-01-05",
+    "dateKey": "_05_JANUARY_2005",
+    "region": 11167,
+    "quests": [
+      "TROLL_ROMANCE"
+    ]
+  },
+  {
+    "date": "2005-01-05",
+    "dateKey": "_05_JANUARY_2005",
+    "region": 11324,
+    "quests": [
+      "TROLL_ROMANCE"
+    ]
+  },
+  {
+    "date": "2005-01-31",
+    "dateKey": "JANUARY_2005",
+    "region": 13880,
+    "quests": [
+      "CREATURE_OF_FENKENSTRAIN"
+    ]
+  },
+  {
+    "date": "2005-02-15",
+    "dateKey": "_15_FEBRUARY_2005",
+    "region": 14903,
+    "quests": [
+      "GHOSTS_AHOY"
+    ]
+  },
+  {
+    "date": "2005-03-07",
+    "dateKey": "_07_MARCH_2005",
+    "region": 11165,
+    "quests": [
+      "MOUNTAIN_DAUGHTER"
+    ]
+  },
+  {
+    "date": "2005-03-21",
+    "dateKey": "_21_MARCH_2005",
+    "region": 9293,
+    "quests": [
+      "BETWEEN_A_ROCK"
+    ]
+  },
+  {
+    "date": "2005-03-21",
+    "dateKey": "_21_MARCH_2005",
+    "region": 9549,
+    "quests": [
+      "BETWEEN_A_ROCK"
+    ]
+  },
+  {
+    "date": "2005-03-21",
+    "dateKey": "_21_MARCH_2005",
+    "region": 9805,
+    "quests": [
+      "BETWEEN_A_ROCK"
+    ]
+  },
+  {
+    "date": "2005-03-21",
+    "dateKey": "_21_MARCH_2005",
+    "region": 11166,
+    "quests": [
+      "BETWEEN_A_ROCK"
+    ]
+  },
+  {
+    "date": "2005-04-11",
+    "dateKey": "_11_APRIL_2005",
+    "region": 10828,
+    "quests": [
+      "THE_GOLEM"
+    ]
+  },
+  {
+    "date": "2005-04-11",
+    "dateKey": "_11_APRIL_2005",
+    "region": 13617,
+    "quests": [
+      "THE_GOLEM"
+    ]
+  },
+  {
+    "date": "2005-04-18",
+    "dateKey": "_18_APRIL_2005",
+    "region": 10574,
+    "quests": [
+      "DESERT_TREASURE_I"
+    ]
+  },
+  {
+    "date": "2005-04-18",
+    "dateKey": "_18_APRIL_2005",
+    "region": 11085,
+    "quests": [
+      "DESERT_TREASURE_I"
+    ]
+  },
+  {
+    "date": "2005-04-18",
+    "dateKey": "_18_APRIL_2005",
+    "region": 11088,
+    "quests": [
+      "DESERT_TREASURE_I"
+    ]
+  },
+  {
+    "date": "2005-04-18",
+    "dateKey": "_18_APRIL_2005",
+    "region": 11341,
+    "quests": [
+      "DESERT_TREASURE_I"
+    ]
+  },
+  {
+    "date": "2005-04-18",
+    "dateKey": "_18_APRIL_2005",
+    "region": 11597,
+    "quests": [
+      "DESERT_TREASURE_I"
+    ]
+  },
+  {
+    "date": "2005-04-18",
+    "dateKey": "_18_APRIL_2005",
+    "region": 12590,
+    "quests": [
+      "DESERT_TREASURE_I"
+    ]
+  },
+  {
+    "date": "2005-04-18",
+    "dateKey": "_18_APRIL_2005",
+    "region": 12688,
+    "quests": [
+      "DESERT_TREASURE_I"
+    ]
+  },
+  {
+    "date": "2005-04-18",
+    "dateKey": "_18_APRIL_2005",
+    "region": 12690,
+    "quests": [
+      "DESERT_TREASURE_I"
+    ]
+  },
+  {
+    "date": "2005-04-18",
+    "dateKey": "_18_APRIL_2005",
+    "region": 12945,
+    "quests": [
+      "DESERT_TREASURE_I"
+    ]
+  },
+  {
+    "date": "2005-04-18",
+    "dateKey": "_18_APRIL_2005",
+    "region": 13201,
+    "quests": [
+      "DESERT_TREASURE_I"
+    ]
+  },
+  {
+    "date": "2005-04-18",
+    "dateKey": "_18_APRIL_2005",
+    "region": 13459,
+    "quests": [
+      "DESERT_TREASURE_I"
+    ]
+  },
+  {
+    "date": "2005-04-26",
+    "dateKey": "_26_APRIL_2005",
+    "region": 12842,
+    "quests": [
+      "ICTHLARINS_LITTLE_HELPER"
+    ]
+  },
+  {
+    "date": "2005-04-26",
+    "dateKey": "_26_APRIL_2005",
+    "region": 13199,
+    "quests": [
+      "ICTHLARINS_LITTLE_HELPER"
+    ]
+  },
+  {
+    "date": "2005-05-17",
+    "dateKey": "_17_MAY_2005",
+    "region": 9876,
+    "quests": [
+      "ZOGRE_FLESH_EATERS"
+    ]
+  },
+  {
+    "date": "2005-07-26",
+    "dateKey": "_26_JULY_2005",
+    "region": 7501,
+    "quests": [
+      "CURSE_OF_THE_EMPTY_LORD",
+      "FORGETTABLE_TALE"
+    ]
+  },
+  {
+    "date": "2005-07-26",
+    "dateKey": "_26_JULY_2005",
+    "region": 11935,
+    "quests": [
+      "CURSE_OF_THE_EMPTY_LORD",
+      "FORGETTABLE_TALE"
+    ]
+  },
+  {
+    "date": "2005-07-26",
+    "dateKey": "_26_JULY_2005",
+    "region": 12598,
+    "quests": [
+      "CURSE_OF_THE_EMPTY_LORD",
+      "FORGETTABLE_TALE"
+    ]
+  },
+  {
+    "date": "2005-07-26",
+    "dateKey": "_26_JULY_2005",
+    "region": 15260,
+    "quests": [
+      "CURSE_OF_THE_EMPTY_LORD",
+      "FORGETTABLE_TALE"
+    ]
+  },
+  {
+    "date": "2005-10-17",
+    "dateKey": "_17_OCTOBER_2005",
+    "region": 7240,
+    "quests": [
+      "MOURNINGS_END_PART_II",
+      "WANTED"
+    ]
+  },
+  {
+    "date": "2005-10-17",
+    "dateKey": "_17_OCTOBER_2005",
+    "region": 7495,
+    "quests": [
+      "MOURNINGS_END_PART_II",
+      "WANTED"
+    ]
+  },
+  {
+    "date": "2005-10-17",
+    "dateKey": "_17_OCTOBER_2005",
+    "region": 7497,
+    "quests": [
+      "MOURNINGS_END_PART_II",
+      "WANTED"
+    ]
+  },
+  {
+    "date": "2005-10-17",
+    "dateKey": "_17_OCTOBER_2005",
+    "region": 8262,
+    "quests": [
+      "MOURNINGS_END_PART_II",
+      "WANTED"
+    ]
+  },
+  {
+    "date": "2005-10-17",
+    "dateKey": "_17_OCTOBER_2005",
+    "region": 8780,
+    "quests": [
+      "MOURNINGS_END_PART_II",
+      "WANTED"
+    ]
+  },
+  {
+    "date": "2005-10-17",
+    "dateKey": "_17_OCTOBER_2005",
+    "region": 9112,
+    "quests": [
+      "MOURNINGS_END_PART_II",
+      "WANTED"
+    ]
+  },
+  {
+    "date": "2005-10-17",
+    "dateKey": "_17_OCTOBER_2005",
+    "region": 11161,
+    "quests": [
+      "MOURNINGS_END_PART_II",
+      "WANTED"
+    ]
+  },
+  {
+    "date": "2005-10-17",
+    "dateKey": "_17_OCTOBER_2005",
+    "region": 11541,
+    "quests": [
+      "MOURNINGS_END_PART_II",
+      "WANTED"
+    ]
+  },
+  {
+    "date": "2005-10-31",
+    "dateKey": "_31_OCTOBER_2005",
+    "region": 8271,
+    "quests": [
+      "RUM_DEAL"
+    ]
+  },
+  {
+    "date": "2005-10-31",
+    "dateKey": "_31_OCTOBER_2005",
+    "region": 8527,
+    "quests": [
+      "RUM_DEAL"
+    ]
+  },
+  {
+    "date": "2005-10-31",
+    "dateKey": "_31_OCTOBER_2005",
+    "region": 8528,
+    "quests": [
+      "RUM_DEAL"
+    ]
+  },
+  {
+    "date": "2005-10-31",
+    "dateKey": "_31_OCTOBER_2005",
+    "region": 8785,
+    "quests": [
+      "RUM_DEAL"
+    ]
+  },
+  {
+    "date": "2005-11-28",
+    "dateKey": "_28_NOVEMBER_2005",
+    "region": 11344,
+    "quests": [
+      "RATCATCHERS"
+    ]
+  },
+  {
+    "date": "2005-11-28",
+    "dateKey": "_28_NOVEMBER_2005",
+    "region": 11926,
+    "quests": [
+      "RATCATCHERS"
+    ]
+  },
+  {
+    "date": "2005-12-05",
+    "dateKey": "_05_DECEMBER_2005",
+    "region": 13457,
+    "quests": [
+      "SPIRITS_OF_THE_ELID"
+    ]
+  },
+  {
+    "date": "2005-12-05",
+    "dateKey": "_05_DECEMBER_2005",
+    "region": 13460,
+    "quests": [
+      "SPIRITS_OF_THE_ELID"
+    ]
+  },
+  {
+    "date": "2005-12-05",
+    "dateKey": "_05_DECEMBER_2005",
+    "region": 13461,
+    "quests": [
+      "SPIRITS_OF_THE_ELID"
+    ]
+  },
+  {
+    "date": "2005-12-19",
+    "dateKey": "_19_DECEMBER_2005",
+    "region": 11851,
+    "quests": [
+      "DEVIOUS_MINDS"
+    ]
+  },
+  {
+    "date": "2005-12-19",
+    "dateKey": "_19_DECEMBER_2005",
+    "region": 12107,
+    "quests": [
+      "DEVIOUS_MINDS"
+    ]
+  },
+  {
+    "date": "2006-01-23",
+    "dateKey": "_23_JANUARY_2006",
+    "region": 8337,
+    "quests": [
+      "ENAKHRAS_LAMENT"
+    ]
+  },
+  {
+    "date": "2006-01-23",
+    "dateKey": "_23_JANUARY_2006",
+    "region": 12433,
+    "quests": [
+      "ENAKHRAS_LAMENT"
+    ]
+  },
+  {
+    "date": "2006-02-07",
+    "dateKey": "_07_FEBRUARY_2006",
+    "region": 7243,
+    "quests": [
+      "CABIN_FEVER"
+    ]
+  },
+  {
+    "date": "2006-02-07",
+    "dateKey": "_07_FEBRUARY_2006",
+    "region": 14902,
+    "quests": [
+      "CABIN_FEVER"
+    ]
+  },
+  {
+    "date": "2006-03-15",
+    "dateKey": "_15_MARCH_2006",
+    "region": 7507,
+    "quests": [
+      "RECIPE_FOR_DISASTER",
+      "RECIPE_FOR_DISASTER__ANOTHER_COOKS_QUEST",
+      "RECIPE_FOR_DISASTER__MOUNTAIN_DWARF",
+      "RECIPE_FOR_DISASTER__WARTFACE__BENTNOZE",
+      "RECIPE_FOR_DISASTER__PIRATE_PETE",
+      "RECIPE_FOR_DISASTER__LUMBRIDGE_GUIDE",
+      "RECIPE_FOR_DISASTER__EVIL_DAVE",
+      "RECIPE_FOR_DISASTER__SKRACH_UGLOGWEE",
+      "RECIPE_FOR_DISASTER__SIR_AMIK_VARZE",
+      "RECIPE_FOR_DISASTER__KING_AWOWOGEI",
+      "RECIPE_FOR_DISASTER__CULINAROMANCER"
+    ]
+  },
+  {
+    "date": "2006-03-15",
+    "dateKey": "_15_MARCH_2006",
+    "region": 10312,
+    "quests": [
+      "RECIPE_FOR_DISASTER",
+      "RECIPE_FOR_DISASTER__ANOTHER_COOKS_QUEST",
+      "RECIPE_FOR_DISASTER__MOUNTAIN_DWARF",
+      "RECIPE_FOR_DISASTER__WARTFACE__BENTNOZE",
+      "RECIPE_FOR_DISASTER__PIRATE_PETE",
+      "RECIPE_FOR_DISASTER__LUMBRIDGE_GUIDE",
+      "RECIPE_FOR_DISASTER__EVIL_DAVE",
+      "RECIPE_FOR_DISASTER__SKRACH_UGLOGWEE",
+      "RECIPE_FOR_DISASTER__SIR_AMIK_VARZE",
+      "RECIPE_FOR_DISASTER__KING_AWOWOGEI",
+      "RECIPE_FOR_DISASTER__CULINAROMANCER"
+    ]
+  },
+  {
+    "date": "2006-03-15",
+    "dateKey": "_15_MARCH_2006",
+    "region": 11930,
+    "quests": [
+      "RECIPE_FOR_DISASTER",
+      "RECIPE_FOR_DISASTER__ANOTHER_COOKS_QUEST",
+      "RECIPE_FOR_DISASTER__MOUNTAIN_DWARF",
+      "RECIPE_FOR_DISASTER__WARTFACE__BENTNOZE",
+      "RECIPE_FOR_DISASTER__PIRATE_PETE",
+      "RECIPE_FOR_DISASTER__LUMBRIDGE_GUIDE",
+      "RECIPE_FOR_DISASTER__EVIL_DAVE",
+      "RECIPE_FOR_DISASTER__SKRACH_UGLOGWEE",
+      "RECIPE_FOR_DISASTER__SIR_AMIK_VARZE",
+      "RECIPE_FOR_DISASTER__KING_AWOWOGEI",
+      "RECIPE_FOR_DISASTER__CULINAROMANCER"
+    ]
+  },
+  {
+    "date": "2006-03-15",
+    "dateKey": "_15_MARCH_2006",
+    "region": 12117,
+    "quests": [
+      "RECIPE_FOR_DISASTER",
+      "RECIPE_FOR_DISASTER__ANOTHER_COOKS_QUEST",
+      "RECIPE_FOR_DISASTER__MOUNTAIN_DWARF",
+      "RECIPE_FOR_DISASTER__WARTFACE__BENTNOZE",
+      "RECIPE_FOR_DISASTER__PIRATE_PETE",
+      "RECIPE_FOR_DISASTER__LUMBRIDGE_GUIDE",
+      "RECIPE_FOR_DISASTER__EVIL_DAVE",
+      "RECIPE_FOR_DISASTER__SKRACH_UGLOGWEE",
+      "RECIPE_FOR_DISASTER__SIR_AMIK_VARZE",
+      "RECIPE_FOR_DISASTER__KING_AWOWOGEI",
+      "RECIPE_FOR_DISASTER__CULINAROMANCER"
+    ]
+  },
+  {
+    "date": "2006-03-15",
+    "dateKey": "_15_MARCH_2006",
+    "region": 12186,
+    "quests": [
+      "RECIPE_FOR_DISASTER",
+      "RECIPE_FOR_DISASTER__ANOTHER_COOKS_QUEST",
+      "RECIPE_FOR_DISASTER__MOUNTAIN_DWARF",
+      "RECIPE_FOR_DISASTER__WARTFACE__BENTNOZE",
+      "RECIPE_FOR_DISASTER__PIRATE_PETE",
+      "RECIPE_FOR_DISASTER__LUMBRIDGE_GUIDE",
+      "RECIPE_FOR_DISASTER__EVIL_DAVE",
+      "RECIPE_FOR_DISASTER__SKRACH_UGLOGWEE",
+      "RECIPE_FOR_DISASTER__SIR_AMIK_VARZE",
+      "RECIPE_FOR_DISASTER__KING_AWOWOGEI",
+      "RECIPE_FOR_DISASTER__CULINAROMANCER"
+    ]
+  },
+  {
+    "date": "2006-03-22",
+    "dateKey": "_22_MARCH_2006",
+    "region": 11335,
+    "quests": [
+      "IN_AID_OF_THE_MYREQUE"
+    ]
+  },
+  {
+    "date": "2006-03-22",
+    "dateKey": "_22_MARCH_2006",
+    "region": 13466,
+    "quests": [
+      "IN_AID_OF_THE_MYREQUE"
+    ]
+  },
+  {
+    "date": "2006-04-03",
+    "dateKey": "_03_APRIL_2006",
+    "region": 11857,
+    "quests": [
+      "A_SOULS_BANE"
+    ]
+  },
+  {
+    "date": "2006-04-03",
+    "dateKey": "_03_APRIL_2006",
+    "region": 12113,
+    "quests": [
+      "A_SOULS_BANE"
+    ]
+  },
+  {
+    "date": "2006-04-03",
+    "dateKey": "_03_APRIL_2006",
+    "region": 12369,
+    "quests": [
+      "A_SOULS_BANE"
+    ]
+  },
+  {
+    "date": "2006-05-22",
+    "dateKey": "_22_MAY_2006",
+    "region": 9888,
+    "quests": [
+      "ROYAL_TROUBLE"
+    ]
+  },
+  {
+    "date": "2006-05-22",
+    "dateKey": "_22_MAY_2006",
+    "region": 10657,
+    "quests": [
+      "ROYAL_TROUBLE"
+    ]
+  },
+  {
+    "date": "2006-06-21",
+    "dateKey": "_21_JUNE_2006",
+    "region": 8015,
+    "quests": [
+      "DEATH_TO_THE_DORGESHUUN"
+    ]
+  },
+  {
+    "date": "2006-07-11",
+    "dateKey": "_11_JULY_2006",
+    "region": 8267,
+    "quests": [
+      "FAIRYTALE_II__CURE_A_QUEEN"
+    ]
+  },
+  {
+    "date": "2006-07-11",
+    "dateKey": "_11_JULY_2006",
+    "region": 12115,
+    "quests": [
+      "FAIRYTALE_II__CURE_A_QUEEN"
+    ]
+  },
+  {
+    "date": "2006-07-11",
+    "dateKey": "_11_JULY_2006",
+    "region": 12372,
+    "quests": [
+      "FAIRYTALE_II__CURE_A_QUEEN"
+    ]
+  },
+  {
+    "date": "2006-07-24",
+    "dateKey": "_24_JULY_2006",
+    "region": 6991,
+    "quests": [
+      "LUNAR_DIPLOMACY"
+    ]
+  },
+  {
+    "date": "2006-07-24",
+    "dateKey": "_24_JULY_2006",
+    "region": 7247,
+    "quests": [
+      "LUNAR_DIPLOMACY"
+    ]
+  },
+  {
+    "date": "2006-07-24",
+    "dateKey": "_24_JULY_2006",
+    "region": 8510,
+    "quests": [
+      "LUNAR_DIPLOMACY"
+    ]
+  },
+  {
+    "date": "2006-07-24",
+    "dateKey": "_24_JULY_2006",
+    "region": 9121,
+    "quests": [
+      "LUNAR_DIPLOMACY"
+    ]
+  },
+  {
+    "date": "2006-07-24",
+    "dateKey": "_24_JULY_2006",
+    "region": 9633,
+    "quests": [
+      "LUNAR_DIPLOMACY"
+    ]
+  },
+  {
+    "date": "2006-07-24",
+    "dateKey": "_24_JULY_2006",
+    "region": 9800,
+    "quests": [
+      "LUNAR_DIPLOMACY"
+    ]
+  },
+  {
+    "date": "2006-08-15",
+    "dateKey": "_15_AUGUST_2006",
+    "region": 9625,
+    "quests": [
+      "THE_EYES_OF_GLOUPHRIE"
+    ]
+  },
+  {
+    "date": "2006-09-04",
+    "dateKey": "_04_SEPTEMBER_2006",
+    "region": 14388,
+    "quests": [
+      "DARKNESS_OF_HALLOWVALE"
+    ]
+  },
+  {
+    "date": "2006-09-04",
+    "dateKey": "_04_SEPTEMBER_2006",
+    "region": 14486,
+    "quests": [
+      "DARKNESS_OF_HALLOWVALE"
+    ]
+  },
+  {
+    "date": "2006-09-04",
+    "dateKey": "_04_SEPTEMBER_2006",
+    "region": 14487,
+    "quests": [
+      "DARKNESS_OF_HALLOWVALE"
+    ]
+  },
+  {
+    "date": "2006-09-20",
+    "dateKey": "_20_SEPTEMBER_2006",
+    "region": 9295,
+    "quests": [
+      "THE_SLUG_MENACE"
+    ]
+  },
+  {
+    "date": "2006-10-02",
+    "dateKey": "_02_OCTOBER_2006",
+    "region": 7760,
+    "quests": [
+      "ELEMENTAL_WORKSHOP_II"
+    ]
+  },
+  {
+    "date": "2006-11-28",
+    "dateKey": "_28_NOVEMBER_2006",
+    "region": 7755,
+    "quests": [
+      "EAGLES_PEAK"
+    ]
+  },
+  {
+    "date": "2006-11-28",
+    "dateKey": "_28_NOVEMBER_2006",
+    "region": 7756,
+    "quests": [
+      "EAGLES_PEAK"
+    ]
+  },
+  {
+    "date": "2006-11-28",
+    "dateKey": "_28_NOVEMBER_2006",
+    "region": 8012,
+    "quests": [
+      "EAGLES_PEAK"
+    ]
+  },
+  {
+    "date": "2006-11-28",
+    "dateKey": "_28_NOVEMBER_2006",
+    "region": 9270,
+    "quests": [
+      "EAGLES_PEAK"
+    ]
+  },
+  {
+    "date": "2007-01-10",
+    "dateKey": "_10_JANUARY_2007",
+    "region": 8516,
+    "quests": [
+      "CONTACT"
+    ]
+  },
+  {
+    "date": "2007-01-10",
+    "dateKey": "_10_JANUARY_2007",
+    "region": 9027,
+    "quests": [
+      "CONTACT"
+    ]
+  },
+  {
+    "date": "2007-01-10",
+    "dateKey": "_10_JANUARY_2007",
+    "region": 12944,
+    "quests": [
+      "CONTACT"
+    ]
+  },
+  {
+    "date": "2007-02-06",
+    "dateKey": "_06_FEBRUARY_2007",
+    "region": 9018,
+    "quests": [
+      "THE_FREMENNIK_ISLES"
+    ]
+  },
+  {
+    "date": "2007-02-06",
+    "dateKey": "_06_FEBRUARY_2007",
+    "region": 9274,
+    "quests": [
+      "THE_FREMENNIK_ISLES"
+    ]
+  },
+  {
+    "date": "2007-02-06",
+    "dateKey": "_06_FEBRUARY_2007",
+    "region": 9516,
+    "quests": [
+      "THE_FREMENNIK_ISLES"
+    ]
+  },
+  {
+    "date": "2007-02-06",
+    "dateKey": "_06_FEBRUARY_2007",
+    "region": 9533,
+    "quests": [
+      "THE_FREMENNIK_ISLES"
+    ]
+  },
+  {
+    "date": "2007-02-06",
+    "dateKey": "_06_FEBRUARY_2007",
+    "region": 9632,
+    "quests": [
+      "THE_FREMENNIK_ISLES"
+    ]
+  },
+  {
+    "date": "2007-02-12",
+    "dateKey": "_12_FEBRUARY_2007",
+    "region": 6985,
+    "quests": [
+      "THE_GENERALS_SHADOW"
+    ]
+  },
+  {
+    "date": "2007-02-19",
+    "dateKey": "_19_FEBRUARY_2007",
+    "region": 12100,
+    "quests": [
+      "TOWER_OF_LIFE"
+    ]
+  },
+  {
+    "date": "2007-03-06",
+    "dateKey": "_06_MARCH_2007",
+    "region": 14384,
+    "quests": [
+      "THE_GREAT_BRAIN_ROBBERY"
+    ]
+  },
+  {
+    "date": "2007-03-06",
+    "dateKey": "_06_MARCH_2007",
+    "region": 14891,
+    "quests": [
+      "THE_GREAT_BRAIN_ROBBERY"
+    ]
+  },
+  {
+    "date": "2007-03-06",
+    "dateKey": "_06_MARCH_2007",
+    "region": 15248,
+    "quests": [
+      "THE_GREAT_BRAIN_ROBBERY"
+    ]
+  },
+  {
+    "date": "2007-03-06",
+    "dateKey": "_06_MARCH_2007",
+    "region": 15405,
+    "quests": [
+      "THE_GREAT_BRAIN_ROBBERY"
+    ]
+  },
+  {
+    "date": "2007-04-24",
+    "dateKey": "_24_APRIL_2007",
+    "region": 9558,
+    "quests": [
+      "ANOTHER_SLICE_OF_HAM"
+    ]
+  },
+  {
+    "date": "2007-04-24",
+    "dateKey": "_24_APRIL_2007",
+    "region": 9812,
+    "quests": [
+      "ANOTHER_SLICE_OF_HAM"
+    ]
+  },
+  {
+    "date": "2007-04-24",
+    "dateKey": "_24_APRIL_2007",
+    "region": 10070,
+    "quests": [
+      "ANOTHER_SLICE_OF_HAM"
+    ]
+  },
+  {
+    "date": "2007-04-24",
+    "dateKey": "_24_APRIL_2007",
+    "region": 10071,
+    "quests": [
+      "ANOTHER_SLICE_OF_HAM"
+    ]
+  },
+  {
+    "date": "2007-05-15",
+    "dateKey": "_15_MAY_2007",
+    "region": 7248,
+    "quests": [
+      "DREAM_MENTOR"
+    ]
+  },
+  {
+    "date": "2007-06-04",
+    "dateKey": "_04_JUNE_2007",
+    "region": 8534,
+    "quests": [
+      "GRIM_TALES"
+    ]
+  },
+  {
+    "date": "2007-07-03",
+    "dateKey": "_03_JULY_2007",
+    "region": 7252,
+    "quests": [
+      "BARBARIAN_TRAINING"
+    ]
+  },
+  {
+    "date": "2007-07-24",
+    "dateKey": "_24_JULY_2007",
+    "region": 6722,
+    "quests": [
+      "KINGS_RANSOM"
+    ]
+  },
+  {
+    "date": "2007-07-24",
+    "dateKey": "_24_JULY_2007",
+    "region": 7234,
+    "quests": [
+      "KINGS_RANSOM"
+    ]
+  }
+]
