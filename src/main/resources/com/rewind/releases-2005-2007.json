@@ -1886,7 +1886,12 @@
   },
   {
     "date": "_24_APRIL_2007",
-    "regions": [],
+    "regions": [
+      10071,
+      10070,
+      9812,
+      9558
+    ],
     "skills": [],
     "prayers": [],
     "quests": [
@@ -1926,7 +1931,9 @@
   },
   {
     "date": "_15_MAY_2007",
-    "regions": [],
+    "regions": [
+      7248
+    ],
     "skills": [],
     "prayers": [],
     "quests": [
@@ -1963,7 +1970,8 @@
   {
     "date": "_04_JUNE_2007",
     "regions": [
-      9046
+      9046,
+      8534
     ],
     "skills": [],
     "prayers": [],
@@ -2064,7 +2072,10 @@
   },
   {
     "date": "_24_JULY_2007",
-    "regions": [],
+    "regions": [
+      7234,
+      6722
+    ],
     "skills": [],
     "prayers": [
       "CHIVALRY",
