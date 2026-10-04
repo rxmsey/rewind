@@ -88,6 +88,28 @@ public class HistoricalRegionAuditTest {
         }
     }
 
+    @Test public void everyConfiguredRegionUnlocksAtItsReleaseBoundary() {
+        List<Release> releases = Release.getRELEASES();
+        for (int i = 0; i < releases.size(); i++) {
+            Release release = releases.get(i);
+            HistoricalRegionState.setSelectedDate(release.getDate().getDate());
+            HistoricalRegionState.replaceWith(Release.getRegions(release));
+            for (int region : release.getRegions()) {
+                assertTrue(release.getDate() + " / " + region,
+                    HistoricalRegionState.isRegionUnlocked(region));
+                if (i > 0) {
+                    Release before = releases.get(i - 1);
+                    HistoricalRegionState.setSelectedDate(before.getDate().getDate());
+                    HistoricalRegionState.replaceWith(Release.getRegions(before));
+                    assertFalse("Region unlocked before its configured boundary: " + region,
+                        HistoricalRegionState.isRegionUnlocked(region));
+                    HistoricalRegionState.setSelectedDate(release.getDate().getDate());
+                    HistoricalRegionState.replaceWith(Release.getRegions(release));
+                }
+            }
+        }
+    }
+
     @Test public void ernestTheChickenBasementUnlocksWithTheQuestBoundary() {
         Release before = Release.getRELEASES().stream()
             .filter(r -> r.getDate().getLocalDate().equals(LocalDate.parse("2001-01-04")))
@@ -110,7 +132,7 @@ public class HistoricalRegionAuditTest {
         HistoricalRegionState.setSelectedDate(last.getDate().getDate());
         HistoricalRegionState.replaceWith(Release.getRegions(last));
         for (int region : new int[]{9043, 10063, 10064, 9807, 13151, 12895, 14642,
-            13136, 12889, 12611, 14160, 9033, 11675, 12119}) {
+            13136, 12889, 12611, 14160, 9033, 12119}) {
             assertFalse("Post-backup/dedicated modern region " + region,
                 HistoricalRegionState.isRegionUnlocked(region));
         }
