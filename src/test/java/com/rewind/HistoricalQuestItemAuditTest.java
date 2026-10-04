@@ -60,6 +60,7 @@ public class HistoricalQuestItemAuditTest
     public void historicalQuestItemsAreAvailableByTheirQuestBoundary() throws Exception
     {
         int checked = 0;
+        java.util.List<String> locked = new java.util.ArrayList<>();
         try (BufferedReader reader = new BufferedReader(new InputStreamReader(
             HistoricalQuestItemAuditTest.class.getResourceAsStream("quest-item-boundaries.tsv"),
             StandardCharsets.UTF_8)))
@@ -87,12 +88,15 @@ public class HistoricalQuestItemAuditTest
 
                 Field field = ItemID.class.getField(constant);
                 int itemId = field.getInt(null);
-                assertTrue(quest + " requires historical item " + name + " (" + constant + ") by " + releaseDate,
-                    EntityDefinition.isItemUnlocked(itemId, date(releaseDate)));
+                if (!EntityDefinition.isItemUnlocked(itemId, date(releaseDate)))
+                {
+                    locked.add(quest + "\t" + releaseDate + "\t" + constant + "\t" + name);
+                }
                 checked++;
             }
         }
         assertTrue("Quest item audit unexpectedly small", checked > 800);
+        assertTrue("Locked historical quest items: " + locked, locked.isEmpty());
     }
 
     @Test
