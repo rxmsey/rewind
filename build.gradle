@@ -40,3 +40,11 @@ tasks.register('run', JavaExec) {
 	jvmArgs "-ea"
 	args "--developer-mode", "--debug"
 }
+
+// Audit branch only: expose complete failing item/region assertions in CI.
+test {
+    testLogging {
+        showStandardStreams = true
+        exceptionFormat = 'full'
+    }
+}
