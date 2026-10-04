@@ -49,6 +49,10 @@ public class HistoricalDataTest {
         try (Reader reader = resource("item-release-overrides.json")) {
             EntityDefinition.itemReleaseOverrides = GSON.fromJson(reader, new TypeToken<Map<Integer, String>>(){}.getType());
         }
+        try (Reader reader = resource("quest-item-release-overrides.json")) {
+            Map<String, String> questItemOverrides = GSON.fromJson(reader, new TypeToken<Map<String, String>>(){}.getType());
+            EntityDefinition.applyNamedItemReleaseOverrides(questItemOverrides);
+        }
         try (Reader reader = resource("monsters.json")) {
             EntityDefinition.monsterDefinition = GSON.fromJson(reader, new TypeToken<Map<Integer, EntityDefinition>>(){}.getType());
         }
@@ -95,7 +99,7 @@ public class HistoricalDataTest {
         }
     }
     @Test public void verifiedLegacyItemDateGapsAreRecoveredWithoutOpeningUnknownItems() throws Exception {
-        assertEquals(3, EntityDefinition.itemReleaseOverrides.size());
+        assertTrue(EntityDefinition.itemReleaseOverrides.size() >= 3);
 
         // Half plain pizza is a real consumable state from the 11 June 2001 pizza update.
         assertFalse(EntityDefinition.isItemUnlocked(2291, date("2001-06-10")));

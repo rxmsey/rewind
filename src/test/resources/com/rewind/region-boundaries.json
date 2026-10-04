@@ -12,6 +12,15 @@
     "reason": "Dedicated historical area with an explicit pre-backup release date and region mapping."
   },
   {
+    "name": "Phoenix Gang hideout",
+    "date": "2001-01-04",
+    "regions": [
+      12952
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Phoenix_Gang_Hideout",
+    "reason": "Required by Shield of Arrav; the Phoenix Gang basement must be accessible from launch."
+  },
+  {
     "name": "Varrock Sewers",
     "date": "2001-01-04",
     "regions": [

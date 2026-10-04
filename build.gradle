@@ -40,3 +40,4 @@ tasks.register('run', JavaExec) {
 	jvmArgs "-ea"
 	args "--developer-mode", "--debug"
 }
+
