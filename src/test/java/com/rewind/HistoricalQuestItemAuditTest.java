@@ -51,8 +51,12 @@ public class HistoricalQuestItemAuditTest
 
                 Field field = ItemID.class.getField(constant);
                 int itemId = field.getInt(null);
-                assertTrue(quest + " requires " + name + " (" + constant + ") by " + releaseDate,
-                    EntityDefinition.isItemUnlocked(itemId, date(releaseDate)));
+                boolean unlocked = EntityDefinition.isItemUnlocked(itemId, date(releaseDate));
+                if (!unlocked)
+                {
+                    System.err.println("LOCKED_QUEST_ITEM\t" + quest + "\t" + releaseDate + "\t" + constant + "\t" + name);
+                }
+                assertTrue(quest + " requires " + name + " (" + constant + ") by " + releaseDate, unlocked);
                 checked++;
             }
         }
