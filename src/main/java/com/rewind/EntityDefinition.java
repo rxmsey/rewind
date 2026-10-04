@@ -9,6 +9,7 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Locale;
 import java.util.Map;
+import net.runelite.api.gameval.ItemID;
 
 @Getter
 public class EntityDefinition {
@@ -23,6 +24,24 @@ public class EntityDefinition {
     static Map<Integer, EntityDefinition> monsterDefinition;
     static Map<Integer, String> itemReleaseOverrides = Collections.emptyMap();
     private static Map<String, LocalDate> earliestMonsterReleaseByName = Collections.emptyMap();
+
+    static void applyNamedItemReleaseOverrides(Map<String, String> namedOverrides) {
+        Map<Integer, String> merged = new HashMap<>();
+        if (itemReleaseOverrides != null) {
+            merged.putAll(itemReleaseOverrides);
+        }
+        if (namedOverrides != null) {
+            for (Map.Entry<String, String> entry : namedOverrides.entrySet()) {
+                try {
+                    int id = ItemID.class.getField(entry.getKey()).getInt(null);
+                    merged.put(id, entry.getValue());
+                } catch (ReflectiveOperationException ignored) {
+                    // Unknown constants stay fail-closed.
+                }
+            }
+        }
+        itemReleaseOverrides = Collections.unmodifiableMap(merged);
+    }
 
     static void indexMonsterDefinitions() {
         Map<String, LocalDate> indexed = new HashMap<>();
@@ -73,8 +92,17 @@ public class EntityDefinition {
         if (def == null) return false;
 
         String release = def.releaseDate;
-        if (release == null && itemReleaseOverrides != null) {
-            release = itemReleaseOverrides.get(id);
+        if (itemReleaseOverrides != null) {
+            String override = itemReleaseOverrides.get(id);
+            if (override != null) {
+                try {
+                    if (release == null || LocalDate.parse(override).isBefore(LocalDate.parse(release))) {
+                        release = override;
+                    }
+                } catch (DateTimeParseException ignored) {
+                    // Invalid override stays ignored.
+                }
+            }
         }
         return isUnlockedDate(release, selected);
     }
