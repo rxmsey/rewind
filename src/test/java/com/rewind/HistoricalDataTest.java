@@ -49,6 +49,10 @@ public class HistoricalDataTest {
         try (Reader reader = resource("item-release-overrides.json")) {
             EntityDefinition.itemReleaseOverrides = GSON.fromJson(reader, new TypeToken<Map<Integer, String>>(){}.getType());
         }
+        try (Reader reader = resource("quest-item-release-overrides.json")) {
+            Map<String, String> questItemOverrides = GSON.fromJson(reader, new TypeToken<Map<String, String>>(){}.getType());
+            EntityDefinition.applyNamedItemReleaseOverrides(questItemOverrides);
+        }
         try (Reader reader = resource("monsters.json")) {
             EntityDefinition.monsterDefinition = GSON.fromJson(reader, new TypeToken<Map<Integer, EntityDefinition>>(){}.getType());
         }
