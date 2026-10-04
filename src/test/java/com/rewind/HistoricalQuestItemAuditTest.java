@@ -23,7 +23,7 @@ public class HistoricalQuestItemAuditTest
         String[] exact = {
             "CHRONICLE", "RING_OF_RECOIL", "RING_OF_CHAROS_UNLOCKED", "RING_OF_ELEMENTS_CHARGED",
             "TABLET_KHARYLL", "SANFEW_SALVE_1_DOSE", "SUMMER_PIE", "ALUFT_SEED_POD",
-            "BLANKRUNE_HIGH", "RAKE", "FLAMTAER_BRACELET"
+            "BLANKRUNE_HIGH", "RAKE", "FLAMTAER_BRACELET", "COSTUMENEEDLE"
         };
         java.util.Collections.addAll(MODERN_OR_OPTIONAL, exact);
     }
