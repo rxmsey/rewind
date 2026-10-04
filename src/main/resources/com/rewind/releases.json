@@ -987,7 +987,10 @@
     "date": "_25_MARCH_2002",
     "regions": [
       10805,
-      10039
+      10039,
+      9782,
+      10291,
+      10032
     ],
     "skills": [
       "FLETCHING"
@@ -1935,7 +1938,12 @@
   },
   {
     "date": "_22_SEPTEMBER_2003",
-    "regions": [],
+    "regions": [
+      10057,
+      9801,
+      10058,
+      12349
+    ],
     "skills": [],
     "prayers": [],
     "quests": [
