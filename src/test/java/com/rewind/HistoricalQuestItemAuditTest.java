@@ -96,6 +96,10 @@ public class HistoricalQuestItemAuditTest
             }
         }
         assertTrue("Quest item audit unexpectedly small", checked > 800);
+        for (String failure : locked)
+        {
+            System.err.println("LOCKED_HISTORICAL_QUEST_ITEM\t" + failure);
+        }
         assertTrue("Locked historical quest items: " + locked, locked.isEmpty());
     }
 
