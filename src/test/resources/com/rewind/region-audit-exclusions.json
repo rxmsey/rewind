@@ -16,13 +16,6 @@
     "reason": "Modern inner-city regions are intentionally excluded; only the historical outer TzHaar city region is unlocked."
   },
   {
-    "name": "Warriors' Guild basement",
-    "regions": [
-      11675
-    ],
-    "reason": "Modern dedicated basement content must remain locked despite the 2006 surface guild release."
-  },
-  {
     "name": "Tutorial Island",
     "regions": [
       12335,
