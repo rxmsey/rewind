@@ -29,5 +29,12 @@
       12436
     ],
     "reason": "Tutorial Island is handled by the dedicated tutorial bypass rather than permanent historical region unlock data."
+  },
+  {
+    "name": "Grand Exchange region",
+    "regions": [
+      12598
+    ],
+    "reason": "Current Quest Helper routes can reference the Grand Exchange as a convenience destination; the Grand Exchange did not exist by 10 August 2007 and remains controlled only by Rewind's explicit GE override."
   }
 ]
