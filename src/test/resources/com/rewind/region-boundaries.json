@@ -148,7 +148,7 @@
   },
   {
     "name": "Clock Tower Basement",
-    "date": "2002-06-17",
+    "date": "2002-05-28",
     "regions": [
       10390
     ],
@@ -165,12 +165,20 @@
     "reason": "Dedicated historical area with an explicit pre-backup release date and region mapping."
   },
   {
-    "name": "Ardougne Sewers",
+    "name": "Ardougne Sewers (2002-08-15)",
+    "date": "2002-08-15",
+    "regions": [
+      10391
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Ardougne_Sewers",
+    "reason": "Dedicated historical area with an explicit pre-backup release date and region mapping."
+  },
+  {
+    "name": "Ardougne Sewers (2002-08-27)",
     "date": "2002-08-27",
     "regions": [
       10134,
-      10136,
-      10391
+      10136
     ],
     "source": "https://oldschool.runescape.wiki/w/Ardougne_Sewers",
     "reason": "Dedicated historical area with an explicit pre-backup release date and region mapping."
@@ -286,6 +294,15 @@
     "reason": "Dedicated historical area with an explicit pre-backup release date and region mapping."
   },
   {
+    "name": "Myreque Hideout (2003-07-09)",
+    "date": "2003-07-09",
+    "regions": [
+      13721
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Myreque_Hideout",
+    "reason": "Dedicated historical quest area with an explicit pre-backup release date."
+  },
+  {
     "name": "Fishing Trawler",
     "date": "2003-07-28",
     "regions": [
@@ -302,6 +319,15 @@
       11153
     ],
     "source": "https://oldschool.runescape.wiki/w/Viyeldi_Caves",
+    "reason": "Dedicated historical area with an explicit pre-backup release date and region mapping."
+  },
+  {
+    "name": "ScapeRune (2003-09-22)",
+    "date": "2003-09-22",
+    "regions": [
+      10058
+    ],
+    "source": "https://oldschool.runescape.wiki/w/ScapeRune",
     "reason": "Dedicated historical area with an explicit pre-backup release date and region mapping."
   },
   {
@@ -395,6 +421,15 @@
     "reason": "Dedicated historical area: complete RuneLite region group."
   },
   {
+    "name": "Fremennik Slayer Dungeon (2004-06-02)",
+    "date": "2004-06-02",
+    "regions": [
+      10907
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Fremennik_Slayer_Dungeon",
+    "reason": "Dedicated historical area: complete RuneLite region group."
+  },
+  {
     "name": "Morytania historical surface",
     "date": "2004-06-29",
     "regions": [
@@ -442,6 +477,24 @@
     ],
     "source": "https://oldschool.runescape.wiki/w/Isafdar",
     "reason": "Historical Isafdar terrain is required for Regicide-era gameplay."
+  },
+  {
+    "name": "Lletya (2004-09-20)",
+    "date": "2004-09-20",
+    "regions": [
+      9265
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Lletya",
+    "reason": "Dedicated historical settlement opened with Mourning's End Part I."
+  },
+  {
+    "name": "Port Tyras",
+    "date": "2004-09-20",
+    "regions": [
+      8496
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Port_Tyras",
+    "reason": "Dedicated historical area with an explicit pre-backup release date and region mapping."
   },
   {
     "name": "Shade Catacombs",
@@ -499,6 +552,15 @@
     "reason": "Dedicated historical area with an explicit pre-backup release date and region mapping."
   },
   {
+    "name": "Void Knights' Outpost",
+    "date": "2004-12-06",
+    "regions": [
+      10537
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Void_Knights'_Outpost",
+    "reason": "Dedicated historical area: complete RuneLite region group."
+  },
+  {
     "name": "Castle Wars",
     "date": "2004-12-13",
     "regions": [
@@ -524,10 +586,27 @@
     "reason": "Dedicated historical area with an explicit pre-backup release date and region mapping."
   },
   {
-    "name": "Myreque Hideout",
+    "name": "Ice Path",
+    "date": "2005-01-05",
+    "regions": [
+      11323
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Ice_Path",
+    "reason": "Dedicated historical area with an explicit pre-backup release date and region mapping."
+  },
+  {
+    "name": "Barrows (2005-01-10)",
     "date": "2005-01-10",
     "regions": [
-      13721,
+      14131
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Barrows",
+    "reason": "Dedicated historical area: complete RuneLite region group."
+  },
+  {
+    "name": "Myreque Hideout (2005-01-10)",
+    "date": "2005-01-10",
+    "regions": [
       13974,
       13977,
       13978
@@ -550,10 +629,9 @@
     "reason": "Dedicated historical dungeon with an explicit pre-backup release date."
   },
   {
-    "name": "Fremennik Slayer Dungeon",
+    "name": "Fremennik Slayer Dungeon (2005-01-26)",
     "date": "2005-01-26",
     "regions": [
-      10907,
       10908,
       11164
     ],
@@ -625,6 +703,15 @@
     "reason": "Dedicated historical area: complete RuneLite region group."
   },
   {
+    "name": "Keldagrim (2005-03-07)",
+    "date": "2005-03-07",
+    "regions": [
+      11422
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Keldagrim",
+    "reason": "Dedicated historical area: complete RuneLite region group."
+  },
+  {
     "name": "Mountain Camp",
     "date": "2005-03-07",
     "regions": [
@@ -644,6 +731,17 @@
     "reason": "Dedicated historical area: complete RuneLite region group."
   },
   {
+    "name": "Keldagrim (2005-03-21)",
+    "date": "2005-03-21",
+    "regions": [
+      11423,
+      11679,
+      11678
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Keldagrim",
+    "reason": "Dedicated historical area: complete RuneLite region group."
+  },
+  {
     "name": "Draynor Sewers",
     "date": "2005-04-18",
     "regions": [
@@ -651,15 +749,6 @@
       12438
     ],
     "source": "https://oldschool.runescape.wiki/w/Draynor_Sewers",
-    "reason": "Dedicated historical area with an explicit pre-backup release date and region mapping."
-  },
-  {
-    "name": "Ice Path",
-    "date": "2005-04-18",
-    "regions": [
-      11323
-    ],
-    "source": "https://oldschool.runescape.wiki/w/Ice_Path",
     "reason": "Dedicated historical area with an explicit pre-backup release date and region mapping."
   },
   {
@@ -692,10 +781,18 @@
     "reason": "Dedicated historical area: complete RuneLite region group."
   },
   {
-    "name": "Barrows",
+    "name": "Dorgeshuun Mines (2005-05-04)",
+    "date": "2005-05-04",
+    "regions": [
+      12950
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Dorgeshuun_Mines",
+    "reason": "Dedicated historical area: complete RuneLite region group."
+  },
+  {
+    "name": "Barrows (2005-05-09)",
     "date": "2005-05-09",
     "regions": [
-      14131,
       14231
     ],
     "source": "https://oldschool.runescape.wiki/w/Barrows",
@@ -721,25 +818,12 @@
     "reason": "Dedicated historical area: complete RuneLite region group."
   },
   {
-    "name": "Dorgeshuun Mines",
+    "name": "Dorgeshuun Mines (2005-05-31)",
     "date": "2005-05-31",
     "regions": [
-      12950,
       13206
     ],
     "source": "https://oldschool.runescape.wiki/w/Dorgeshuun_Mines",
-    "reason": "Dedicated historical area: complete RuneLite region group."
-  },
-  {
-    "name": "Keldagrim",
-    "date": "2005-05-31",
-    "regions": [
-      11423,
-      11422,
-      11679,
-      11678
-    ],
-    "source": "https://oldschool.runescape.wiki/w/Keldagrim",
     "reason": "Dedicated historical area: complete RuneLite region group."
   },
   {
@@ -756,10 +840,9 @@
     "reason": "Dedicated historical area: complete RuneLite region group."
   },
   {
-    "name": "Lletya",
+    "name": "Lletya (2005-07-19)",
     "date": "2005-07-19",
     "regions": [
-      9265,
       11103
     ],
     "source": "https://oldschool.runescape.wiki/w/Lletya",
@@ -776,10 +859,9 @@
     "reason": "Dedicated historical area with an explicit pre-backup release date and region mapping."
   },
   {
-    "name": "ScapeRune",
+    "name": "ScapeRune (2005-08-09)",
     "date": "2005-08-09",
     "regions": [
-      10058,
       7758,
       8261
     ],
@@ -850,6 +932,15 @@
     "reason": "Dedicated historical area with an explicit pre-backup release date and region mapping."
   },
   {
+    "name": "Temple Trekking (2005-10-31)",
+    "date": "2005-10-31",
+    "regions": [
+      8270
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Temple_Trekking",
+    "reason": "Dedicated historical area with an explicit pre-backup release date and region mapping."
+  },
+  {
     "name": "Dagannoth Kings",
     "date": "2005-11-07",
     "regions": [
@@ -890,6 +981,15 @@
     "reason": "Dedicated historical area: complete RuneLite region group."
   },
   {
+    "name": "Mage Training Arena (2005-12-05)",
+    "date": "2005-12-05",
+    "regions": [
+      13462
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Mage_Training_Arena",
+    "reason": "Dedicated historical area: complete RuneLite region group."
+  },
+  {
     "name": "Champions' Challenge",
     "date": "2005-12-12",
     "regions": [
@@ -899,10 +999,9 @@
     "reason": "Dedicated historical area with an explicit pre-backup release date and region mapping."
   },
   {
-    "name": "Mage Training Arena",
+    "name": "Mage Training Arena (2006-01-04)",
     "date": "2006-01-04",
     "regions": [
-      13462,
       13463
     ],
     "source": "https://oldschool.runescape.wiki/w/Mage_Training_Arena",
@@ -997,11 +1096,10 @@
     "reason": "Dedicated historical area: complete RuneLite region group."
   },
   {
-    "name": "Temple Trekking",
+    "name": "Temple Trekking (2006-03-28)",
     "date": "2006-03-28",
     "regions": [
       8014,
-      8270,
       8256,
       8782,
       9038,
@@ -1028,15 +1126,6 @@
       10536
     ],
     "source": "https://oldschool.runescape.wiki/w/Pest_Control",
-    "reason": "Dedicated historical area: complete RuneLite region group."
-  },
-  {
-    "name": "Void Knights' Outpost",
-    "date": "2006-04-18",
-    "regions": [
-      10537
-    ],
-    "source": "https://oldschool.runescape.wiki/w/Void_Knights'_Outpost",
     "reason": "Dedicated historical area: complete RuneLite region group."
   },
   {
@@ -1134,15 +1223,6 @@
     ],
     "source": "https://oldschool.runescape.wiki/w/Pirates'_Cove",
     "reason": "Dedicated historical area: complete RuneLite region group."
-  },
-  {
-    "name": "Port Tyras",
-    "date": "2006-08-22",
-    "regions": [
-      8496
-    ],
-    "source": "https://oldschool.runescape.wiki/w/Port_Tyras",
-    "reason": "Dedicated historical area with an explicit pre-backup release date and region mapping."
   },
   {
     "name": "Meiyerditch",
