@@ -29,6 +29,7 @@ public class HistoricalQuestItemAuditTest
     public void questRequiredItemsAreAvailableByTheQuestRelease() throws Exception
     {
         int checked = 0;
+        java.util.List<String> locked = new java.util.ArrayList<>();
         try (BufferedReader reader = new BufferedReader(new InputStreamReader(
             HistoricalQuestItemAuditTest.class.getResourceAsStream("quest-item-boundaries.tsv"),
             StandardCharsets.UTF_8)))
@@ -54,13 +55,15 @@ public class HistoricalQuestItemAuditTest
                 boolean unlocked = EntityDefinition.isItemUnlocked(itemId, date(releaseDate));
                 if (!unlocked)
                 {
-                    System.err.println("LOCKED_QUEST_ITEM\t" + quest + "\t" + releaseDate + "\t" + constant + "\t" + name);
+                    String failure = quest + "\t" + releaseDate + "\t" + constant + "\t" + name;
+                    locked.add(failure);
+                    System.err.println("LOCKED_QUEST_ITEM\t" + failure);
                 }
-                assertTrue(quest + " requires " + name + " (" + constant + ") by " + releaseDate, unlocked);
                 checked++;
             }
         }
         assertTrue("Quest item audit unexpectedly empty", checked > 1000);
+        assertTrue("Locked quest-item audit rows: " + locked.size(), locked.isEmpty());
     }
 
     @Test
