@@ -32,15 +32,33 @@ public class EntityDefinition {
         }
         if (namedOverrides != null) {
             for (Map.Entry<String, String> entry : namedOverrides.entrySet()) {
-                try {
-                    int id = ItemID.class.getField(entry.getKey()).getInt(null);
+                Integer id = questItemId(entry.getKey());
+                if (id != null) {
                     merged.put(id, entry.getValue());
-                } catch (ReflectiveOperationException ignored) {
-                    // Unknown constants stay fail-closed.
                 }
             }
         }
         itemReleaseOverrides = Collections.unmodifiableMap(merged);
+    }
+
+    private static Integer questItemId(String constant) {
+        switch (constant) {
+            case "ARRAVCERTIFICATE_LFT": return ItemID.ARRAVCERTIFICATE_LFT;
+            case "ARRAVCERTIFICATE_RHT": return ItemID.ARRAVCERTIFICATE_RHT;
+            case "PIRATEMESSAGE": return ItemID.PIRATEMESSAGE;
+            case "WITCHES_SHEDKEY": return ItemID.WITCHES_SHEDKEY;
+            case "PAPYRUS": return ItemID.PAPYRUS;
+            case "MOSOL_WAMPUM_BELT": return ItemID.MOSOL_WAMPUM_BELT;
+            case "PALADINBADGE2": return ItemID.PALADINBADGE2;
+            case "SLAVE_BOOTS": return ItemID.SLAVE_BOOTS;
+            case "AIR_TALISMAN": return ItemID.AIR_TALISMAN;
+            case "RESEARCH_PACKAGE": return ItemID.RESEARCH_PACKAGE;
+            case "RESEARCH_NOTES": return ItemID.RESEARCH_NOTES;
+            case "ELEMENTAL_WORKSHOP_SHIELD_BOOK_SLASHED": return ItemID.ELEMENTAL_WORKSHOP_SHIELD_BOOK_SLASHED;
+            case "FLAMTAER_HAMMER": return ItemID.FLAMTAER_HAMMER;
+            case "TIMBERBEAM": return ItemID.TIMBERBEAM;
+            default: return null;
+        }
     }
 
     static void indexMonsterDefinitions() {
